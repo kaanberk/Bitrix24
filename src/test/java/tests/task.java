@@ -6,6 +6,8 @@ public class task {
     
    System.out.println("Hello World");
      
-
+  }
+  public String hello(){
+    return "Hello from Github";
   }
 }
