@@ -11,4 +11,8 @@ public class task {
         System.out.println("Hi from Intellij");
     }
 
+
+      public String hello(){
+        return "Hello from Github";
+  }
 }
